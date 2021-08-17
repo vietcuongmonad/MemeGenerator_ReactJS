@@ -16,4 +16,6 @@ You will also see any lint errors in the console.
 
 ### Websites
 
+The loading time is quite long but the website is definitely working, please be patience!
+
 https://meme-generator-by-cuong.herokuapp.com/
